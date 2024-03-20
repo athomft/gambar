@@ -2,7 +2,7 @@
 
 Pemrograman Web Dasar | Tugas 02: CSS & HTML 1 | Soal 04
 
-Soal 03: Gambar
+Soal 04: Gambar
 
 1. Buatlah berkas index.html.
 2. Buat sebuah tag <img> pertama.
